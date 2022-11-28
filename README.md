@@ -54,3 +54,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoonJuhye&repo=ALDL)](https://github.com/YoonJuhye/ALDL)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoonJuhye&repo=FITWEEN)](https://github.com/YoonJuhye/fitween)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoonJuhye&repo=SMDB)](https://github.com/YoonJuhye/SMDB)
