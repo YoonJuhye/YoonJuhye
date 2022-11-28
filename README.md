@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonJuhye)](https://github.com/YoonJuhye/github-readme-stats)
 [![Juhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonJuhye)](https://github.com/YoonJuhye/github-readme-stats)
 
 ### 💻 Project
@@ -29,6 +28,7 @@ Here are some ideas to get you started:
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonJuhye)](https://github.com/YoonJuhye/github-readme-stats)
 ### ✨ Tech Stack
 
 > Techs that I've used at least one
