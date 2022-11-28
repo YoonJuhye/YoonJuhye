@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonJuhye)](https://github.com/YoonJuhye/github-readme-stats)
 [![Juhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonJuhye)](https://github.com/YoonJuhye/github-readme-stats)
 
 ### 💻 Project
@@ -35,7 +36,6 @@ Here are some ideas to get you started:
   <b>Frontend　</b>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
   <br /><br />
   <b>Backend　</b>
