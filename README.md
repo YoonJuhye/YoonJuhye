@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonJuhye)](https://github.com/YoonJuhye/github-readme-stats)
-[![Juhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonJuhye&hide=issues&count_private=true)](https://github.com/YoonJuhye/github-readme-stats)
+[![Juhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonJuhye&hide=stars,issues&count_private=true)](https://github.com/YoonJuhye/github-readme-stats)
 
 ### 💻 Project
 
