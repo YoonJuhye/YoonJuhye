@@ -49,4 +49,5 @@ Here are some ideas to get you started:
 </p>
 
 <br />
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoonJuhye&repo=Lyra)](https://github.com/YoonJuhye/Lyra)
