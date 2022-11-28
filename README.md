@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 💻 Project
+
+|      Period       |       Category        | Project                                                      |
+| :---------------: | :-------------------: | ------------------------------------------------------------ |
+| 2022.10 - 2022.11 |          App          | [Lyra](https://github.com/YoonJuhye/Lyra) (버스킹 소통 플랫폼) |
+| 2022.08 - 2022.09 |          Web          | [알록달록](https://github.com/YoonJuhye/ALDL) (블록체인 활용 추억 저장소) |
+| 2022.07 - 2022.08 |        Web, App       | [FITWEEN](https://github.com/YoonJuhye/Fitween) (공유 옷장 플랫폼) |
+| 2022.05 - 2022.05 |          Web          | [SMDB](https://github.com/YoonJuhye/SMDB) (추천 알고리즘을 사용한 영화 커뮤니티) |
+
+
+<br />
+
 ### ✨ Tech Stack
 
 > Techs that I've used at least one
