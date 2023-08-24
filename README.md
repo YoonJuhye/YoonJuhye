@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 |      Period       |       Category        | Project                                                      |
 | :---------------: | :-------------------: | ------------------------------------------------------------ |
+| 2023.06 - 2023.08 |          Web          | [Peerlick](https://github.com/FinTech-3/PeerLock) (P2P 짐보관 서비스) |
 | 2022.10 - 2022.11 |          App          | [Lyra](https://github.com/YoonJuhye/Lyra) (버스킹 소통 플랫폼) |
 | 2022.08 - 2022.09 |          Web          | [알록달록](https://github.com/YoonJuhye/ALDL) (블록체인 활용 추억 저장소) |
 | 2022.07 - 2022.08 |        Web, App       | [FITWEEN](https://github.com/YoonJuhye/Fitween) (공유 옷장 플랫폼) |
@@ -29,6 +30,15 @@ Here are some ideas to get you started:
 
 <br />
 
+### 📚 Study
+
+|      Period       |       Category        | Project                                                      |
+| :---------------: | :-------------------: | ------------------------------------------------------------ |
+| 2023.06 - 2023.10 |          Java          | [Java Study](https://github.com/YoonJuhye/JavaStudy) (자바 스터디) |
+| 2022.10 - 2022.11 |          CS          | [CS](https://github.com/YoonJuhye/CS-study) (CS 스터디) |
+
+
+<br />
 
 ### ✨ Tech Stack
 
@@ -45,8 +55,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/recoil-black?style=flat-square&logoColor=white"/>
   <br /><br />
   <b>Backend　</b>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"><br /><br />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <br /><br />
   <b>Etc　</b>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white">
@@ -60,4 +74,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoonJuhye&repo=ALDL)](https://github.com/YoonJuhye/ALDL)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoonJuhye&repo=FITWEEN)](https://github.com/YoonJuhye/fitween)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoonJuhye&repo=SMDB)](https://github.com/YoonJuhye/SMDB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FinTech-3&repo=Peerlock)](https://github.com/FinTech-3/PeerLock)
