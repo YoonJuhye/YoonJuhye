@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 |      Period       |       Category        | Project                                                      |
 | :---------------: | :-------------------: | ------------------------------------------------------------ |
-| 2023.06 - 2023.08 |          Web          | [Peerlick](https://github.com/FinTech-3/PeerLock) (P2P 짐보관 서비스) |
+| 2023.06 - 2023.08 |          Web          | [Peerlock](https://github.com/FinTech-3/PeerLock) (P2P 짐보관 서비스) |
 | 2022.10 - 2022.11 |          App          | [Lyra](https://github.com/YoonJuhye/Lyra) (버스킹 소통 플랫폼) |
 | 2022.08 - 2022.09 |          Web          | [알록달록](https://github.com/YoonJuhye/ALDL) (블록체인 활용 추억 저장소) |
 | 2022.07 - 2022.08 |        Web, App       | [FITWEEN](https://github.com/YoonJuhye/Fitween) (공유 옷장 플랫폼) |
